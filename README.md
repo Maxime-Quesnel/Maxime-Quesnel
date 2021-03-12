@@ -6,12 +6,12 @@
 
 ## Know more about me:
 
-### 🏆Hackathon:
+### 🏆 Hackathon:
 
 - 1st place in ReactJs wild-code-school La loupe 2020
 - 2st place in ReactJs Wild-code-school Orleans / Tours / La loupe 2021
 
-### 🔗Links:
+### 🔗 Links:
 
 - LinkedIn - https://www.linkedin.com/in/maxime-quesnel/
 - Instagram - https://www.instagram.com/maax.code/
