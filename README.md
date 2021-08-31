@@ -22,6 +22,7 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT%20-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![RUBY](https://img.shields.io/badge/RUBY%20-red.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 
 ![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
